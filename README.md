@@ -1,2 +1,2 @@
 # Leads Tracker
-Leads Tracker is a lightweight Chrome extension that lets you quickly write and save custom URL links or automatically grab the current tab’s URL from the address bar. Easily store and manage your favorite or frequently visited links in one click—perfect for staying organized while browsing.
+Leads Tracker is a lightweight mobile app that helps you quickly save and manage URLs. Add new items with ease, delete what you no longer need, and keep your important links organized and accessible on the go.
